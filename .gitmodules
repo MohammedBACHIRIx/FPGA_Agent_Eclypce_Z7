@@ -1,0 +1,3 @@
+[submodule "DClocking"]
+	path = DClocking
+	url = https://github.com/hosinonisiki/DClocking.git
