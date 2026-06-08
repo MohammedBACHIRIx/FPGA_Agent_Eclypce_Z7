@@ -151,7 +151,7 @@ Type these in the chat panel:
 | FL1010 | `FL1010_adapter` |
 | AN9767 | `AN9767_adapter` |
 | PZ-KU060-FHT | Custom wrapper |
-| KU060 Custom | Custom wrapper |
+| KU060 Custom | Custom wrapper |`n| Eclypse Z7 | `EclypseZ7_adapter` |
 
 ## Related Repositories
 
